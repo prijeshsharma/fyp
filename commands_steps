@@ -1,0 +1,5 @@
+git add .
+
+git commit -m "Type your message"
+
+git push origin master
